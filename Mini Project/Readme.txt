@@ -1,0 +1,1 @@
+ Generate a quote randomly
